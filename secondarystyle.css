@@ -1,0 +1,16 @@
+info-bod{
+    position: relative;
+    float:right;
+    width:95%;
+    justify-items: left;
+    font-family: 'Roboto', sans-serif;
+    color: #2d6e96;
+}
+p{
+   text-indent: 30px; 
+}
+sect{
+    display: block;
+    position: relative;
+    padding: 10px 0px 10px 0px;
+}

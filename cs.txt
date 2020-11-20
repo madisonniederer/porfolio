@@ -1,0 +1,45 @@
+Coursework:
+Data Structures & Algorithms, Software Development, Theory of Database Systems, Programming Practicum, 
+    Comp Organization & Architecture
+
+Data Structures & Algorithms: In the course, we covered topics related to algorithms including recussion, algorithm analysis,
+search and sorting algoithms. We implemented data structures in Java including Stacks, Queues, Linked Lists, Trees, and Heaps, 
+and learned about traversal and data analysis using data structures.
+
+Software Development: In my software development course, we discussed the process of designing, modeling, implementing, debuging, and deploying of software for
+clients includingly lifecycle of software. We also covered UML and how to model our software. For the semester long project in the course,
+we designed our own software and completed documentation of the requirement elicitation, design process, models of the software, and the functional priorities of the software.
+More info on the project in the experience section below 
+
+Theory of Database Systems: In the couse, we covered modeling, designing, building, and interfacing Databases. 
+In addition to this, we covered information storage and quering using SQL.
+
+Programming Practicum: In my Programming Practiucum course, we covered how to transfer skills and quickly learn Object Oriented
+Programming languages. We used previous knowledge in Java to quickly master C# and programming concepts like
+polymorphism, encapsulation using delegates and anonymous methods, lambda experssions...
+
+Computer Organization & Architecture: Covered computer systems, organization, and architecture. Focusing on, representation
+of data, instructions sets, addressing modes, digital logic, logic circuits, logic devices, memory,
+register transfer, and alternative architectures. By understanding the computer organization at lowest level, through
+understanding Machine and assembly language we can build more efficent and effective high-level language programs.
+
+Technical Skills: 
+    Programming Languages: Java, C#, HTML/CSS, SQL
+    Experience with: Software Development Project Management, Relational Databases, Access, 
+        Visual Studio, UML, Object Oriented Programming Languages, Graphic Design using Adobe Illustrator
+Experience:
+Project Manager and Analyst for Software Development Project in CS270 Course (Jan 2020-May 2020)
+<ul>
+    <li>Lead development of software intended to simplify Illinois College's current BluePrint(Gen Ed.) Registration Software
+        for students, advisors, and registrars at the institution</li>
+    <li>Delegated tasks and participated in development of project materials at all levels including requirement elication, designing,
+        modeling, and documentation of project materials on a strict timeline</li>
+    <li>Presented the project timeline, process, scope, and interface at College wide Celebration of Excellence</li>
+<ul>
+    Documentation of Materials:
+    <a href="Work\Requirements Document.pdf" target="_blank" rel="noopener noreferrer"><p>Requirements Documentation</p></a>
+    <a href="Work\BSPSDev .pdf" target="_blank" rel="noopener noreferrer"><p>Summary of Development Process</p></a> 
+
+
+
+
