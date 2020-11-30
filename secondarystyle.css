@@ -9,6 +9,9 @@ info-bod{
 p{
    text-indent: 30px; 
 }
+ul {
+    text-indent: 20px;
+}
 sect{
     display: block;
     position: relative;
